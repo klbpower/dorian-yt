@@ -3,13 +3,13 @@
 Curso de Dorian de repaso de html básico
 Aprovechado para practicar con la terminal de git
 
-##Extensiones
+## Extensiones
 Spanish language pack for Visual Studio Code
 Auto Rename Tag
 Auto Close Tag
 Prettier Code Formatter
 
-##Conceptos
+## Conceptos
 IP
 URL
 DNS
