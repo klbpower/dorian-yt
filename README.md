@@ -26,3 +26,13 @@ Apariencia
 ## Película
 Guerra de los navegadores
 
+## Canal Dorian
+### Twitch
+https://www.twitch.tv/doriandesings 
+### Youtube
+https://www.youtube.com/channel/UCzuwt7Pi_VB8cP5q5UE4u-A
+### Discord
+https://discord.gg/BXsX5zM
+### Udemy cursos
+https://www.udemy.com/user/adrian-heras/
+
