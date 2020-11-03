@@ -8,7 +8,8 @@ Se encarga de la Vista no MVC
 
 ## Ventajas SPA
 
-Carga web completa, y apartir de aquí carga lo que deseamos -- Mayor velocidad
-Reactividad
+Mayor velocidad --Carga web completa, y carga lo que deseamos --
+Reactividad -- DOM vs VirtualDOM
 JSON
 Mayor posibilidad de interactividad
+Juntar todo
