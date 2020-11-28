@@ -1,0 +1,14 @@
+// Estilos base
+@import 'base/normalize.scss';
+@import 'base/base.scss';
+
+// Variables
+@import 'config/variables.scss';
+@import 'config/types.scss';
+
+// Blocks
+@import 'blocks/header.scss';
+@import 'blocks/game.scss';
+@import 'blocks/loader.scss';
+@import 'blocks/pokedex.scss';
+@import 'blocks/card.scss';

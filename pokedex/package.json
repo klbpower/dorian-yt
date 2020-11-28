@@ -1,0 +1,52 @@
+{
+  "name": "gulp-guia",
+  "version": "1.0.0",
+  "description": "https://mega.nz/folder/vVQwSbaa#E3QLUupzxdwXdCF-Y3eZVQ\r Muchísmas gracias a sheilitamr por el currazo!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-transform-modules-commonjs": "^7.12.1",
+    "@babel/plugin-transform-modules-systemjs": "^7.12.1",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.7",
+    "@babel/register": "^7.12.1",
+    "autoprefixer": "^9.8.0",
+    "browser-sync": "^2.26.7",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-cache-bust": "^1.4.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-purgecss": "^2.2.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^1.2.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.9.5",
+    "usedcss": "^1.0.7"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.12.5",
+    "babel-plugin-transform-es2015-modules-systemjs": "^6.24.1"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DorianDesings/pokedex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DorianDesings/pokedex/issues"
+  },
+  "homepage": "https://github.com/DorianDesings/pokedex#readme"
+}

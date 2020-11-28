@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+html(lang="en")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport", content="width=device-width, initial-scale=1.0")
+    link(rel="stylesheet", href="css/styles.css")
+    title Pokedex
+  body
+    header.header
+      h1.header__title Catch'em All
+      h1.header__title Pokedex
+    main#main.main
+      #game.game
+        #loader.loader
+          .loader__pokeball-container
+            .loader__pokeball
+          .loader__text Loading...
+        .game__image-container
+          img(src="", alt="")#poke-image.game__image
+        ul#poke-answers.game__answers
+      #pokedex.pokedex
+    script(src="js/scripts-min.js")
